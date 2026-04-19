@@ -27,5 +27,58 @@ This guide has been written with beginners in mind. It explains the core concept
 
 3. Click ‘New Game’ to start a single player game against computer-controlled opponents or Click ‘Multiplayer’ to set up a game against human opponents
 
-## Game modes
+## Select a game mode
 
+There are five game modes in Polytopia:
+
+### Single Player
+
+* **Perfection** – 30 turn limit, most points wins.
+
+* **Domination** – No turn limit, capture all cities. 
+
+* **Creative** – Custom map mode, play for points, territory – or play forever.
+
+### Multiplayer
+
+* **Glory** – No turn limit, first player to amass a set number of points wins. 
+
+* **Might** – Capture all capital cities to win. No score limit. 
+
+### Perfection
+
+**Perfection** mode games are limited to 30 turns and take place on 256-tile maps. The winner is whoever has earned the most points after 30 turns. 
+
+Points are obtained by taking over cities, upgrading cities, building monuments and temples, expanding your city’s population and borders, defeating enemy units, and exploring sections of the map – see the section Point scoring explained for a breakdown of how points are earned. 
+
+### Domination
+
+**Domination** mode games are not turn-limited. They continue until one player controls every city on the map. Map sizes range from 121 tiles to 324 tiles in size. 
+
+Points are accrued throughout Domination games, but they have no bearing on victory.
+
+### Creative
+
+**Creative** mode lets you customise the standard game settings, play on maps as large as 900 tiles, play on all-land maps, a big landmass dotted with lakes, a pangea, continents, archipelagoes, or on sea maps dotted with small islands. 
+
+You can play Perfection or Domination-mode games, or play forever on **Infinity**-mode games, which have no score or turn limit – you decide when the game ends. 
+
+Creative games let you play against up to 15 computer-controlled opponents, or play against no-one, if you want to peacefully explore the map, and build up your cities without interference. 
+
+### Glory
+
+**Glory** games are won by the first player to score a certain amount of points. Point thresholds for victory can be set at the following levels:
+
+* 5,000
+* 10,000
+* 15,000
+* 20,000
+* 25,000
+
+Glory games are similar to Perfection games in that the object of the game is to gather points, not conquer enemy tribes – although taking over enemy territory will earn you points, making victory easier. 
+
+### Might
+
+**Might** games are won by capturing the capital cities of all enemy tribes, and holding them for at least one turn. There are no turn limits or point limits. 
+
+Might games are similar to Domination games in that the object of the game is conquest, the only real difference being you only have to capture and hold the capital cities.
