@@ -202,3 +202,31 @@ Yădakk is an Anatolia-themed tribe who wear rich red robes and have access to t
 Starting unit: **Warrior**
 Starting number of Stars: **7**
 Starting technology: **Roads** – Allows cities to build **Bridges** and **Roads**
+
+> **Note:** Stars is the in-game currency in *Polytopia* – read the Starting Currency and Stars Per Turn (SPT) sections for a full explanation.
+
+## Choose the number of opponents
+
+After picking your tribe, you will be asked to choose your opponents as well as choose which type of map you want to play on.
+
+In single player games against computer-controlled opponents, you will be asked to pick how many opponents you want to play against, between **1–15**. 
+
+In multiplayer games, you can either create a local **Pass & Play** type game, where you take a turn and then share your mobile device or Nintendo Switch with friends, or organise an **Online** game with friends you’ve added, or with random players via a lobby.
+
+The maximum number of players supported at any one time is **16**.
+
+## Choose the difficulty level
+
+In single-player mode, pick from one of four difficulty levels – **Easy**, **Normal**, **Hard**, **Crazy**.
+
+The difficulty level determines the aggression of computer-controlled opponents. On Easy and Normal difficulty, tribes tend to not attack you unless provoked, whereas on Hard and Crazy difficulty, you will often be attacked without warning. 
+
+The difficulty level does **not** determine the amount of damage that enemy units can deal and receive – read the Combat section for a breakdown of the damage formulas.
+
+## Pick your opponents
+
+You can’t manually select which tribes you play against in single player games – *Polytopia* will randomly select which tribes you play against when you press ‘Start Game’.
+
+You can however influence who you play against by enabling and disabling tribes from the ‘Pick Your Tribe’ menu. 
+
+Select a tribe, and click the ‘Disable/Enable’ toggle in the top-right corner: 
