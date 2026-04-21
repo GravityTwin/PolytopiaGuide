@@ -1756,7 +1756,7 @@ A unit on a **Raft** can move around on **Water** tiles. **Rafts** have a defenc
 By spending Stars, you can upgrade units on **Rafts** to one of three vessel types:
 
 
-* **Rammer:** A sea-bourne melee unit. As the name implies, it can attack other units by ramming into them. It can retaliate, but only if rammed by another Rammer, or attacked by an adjacent unit. 
+* **Rammer:** A sea-bourne melee unit. As the name implies, it can attack other units by ramming into them. It can retaliate, but only if rammed by another Rammer, or attacked by an adjacent land unit. 
 * **Scout:** A fast-moving vessel with a ranged attack that can move and fire in the same turn, and can retaliate in the same way that an **Archer** would.
 * **Bomber:** A battleship with a powerful ranged attack that benefits from splash damage, which damages the target, and any adjacent enemy units. Bombers cannot move and fire in the same turn, and they cannot retaliate. 
 
