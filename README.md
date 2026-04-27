@@ -49,7 +49,7 @@ There are five game modes in Polytopia:
 
 **Perfection** mode games are limited to 30 turns and take place on 256-tile maps. The winner is whoever has earned the most points after 30 turns. 
 
-Points are obtained by taking over cities, upgrading cities, building monuments and temples, expanding your city’s population and borders, defeating enemy units, and exploring sections of the map – see the section Point scoring explained for a breakdown of how points are earned. 
+Points are obtained by taking over cities, upgrading cities, building monuments and temples, expanding your city’s population and borders, defeating enemy units, and exploring sections of the map – see the section [Point scoring explained](#point-scoring-explained) for a breakdown of how points are earned. 
 
 #### Domination
 
@@ -91,10 +91,10 @@ In *Polytopia*, you can choose from one of the four starting tribes. More tribes
 
 The four free regular tribes on Polytopia are:
 
-* Xin-xi.
-* Imperius.
-* Bardur.
-* Oumaji.
+* [Xin-xi](#xin-xi).
+* [Imperius](#imperius).
+* [Bardur](#bardur).
+* [Oumaji](#oumaji).
 
 #### Xin-xi
 
@@ -130,18 +130,18 @@ Starting technology: **Riding** (allows you to train **Rider** units).
 
 The other regular tribes on Polytopia aren’t available with free versions of the game – they need to be unlocked with in-game purchases. They are:
 
-* Kickoo.
-* Hoodrick.
-* Luxidoor.
-* Vengir.
-* Zebasi. 
-* Ai-Mo.
-* Quetzali.
-* Yădakk.
+* [Kickoo](#kickoo).
+* [Hoodrick](#hoodrick).
+* [Luxidoor](#luxidoor).
+* [Vengir](#vengir).
+* [Zebasi](#zebasi). 
+* [Ai-Mo](#zebasi).
+* [Quetzali](#quetzali).
+* [Yădakk](#yădakk).
 
 #### Kickoo
 
-A Polynesia-themed tribe, who start out in a grassland biome, always close to the sea. Kickoo buildings are fashioned from wood and are thatched with banana leaves. Always starting next to two Water tiles – even on Dryland (‘Dryland’) maps – Kickoo players can easily upgrade their capital city, and start building navies before most players have even researched Fishing. The default Kickoo colour is lime green.
+A Polynesia-themed tribe, who start out in a grassland biome, with the sea not far away. Kickoo buildings are fashioned from wood and are thatched with banana leaves. Always starting next to two Water tiles – even on Dryland (‘Dryland’) maps – Kickoo players can easily upgrade their capital city, and start building navies before most players have even researched Fishing. The default Kickoo colour is lime green.
 
 Starting unit: **Warrior**.
 Starting number of Stars: **5**.
@@ -203,7 +203,7 @@ Starting unit: **Warrior**
 Starting number of Stars: **7**
 Starting technology: **Roads** – Allows cities to build **Bridges** and **Roads
 
-> **Note:** Stars is the in-game currency in *Polytopia* – read the [Starting currency](#starting-currency) and Stars Per Turn (SPT) sections for a full explanation.
+> **Note:** Stars is the in-game currency in *Polytopia* – read the [Starting currency](#starting-currency) and [Stars Per Turn (SPT)](#stars-per-turn-spt) sections for a full explanation.
 
 ## Choose the number of opponents
 
