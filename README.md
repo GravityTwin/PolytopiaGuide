@@ -201,9 +201,9 @@ Yădakk is an Anatolia-themed tribe who wear rich red robes and have access to t
 
 Starting unit: **Warrior**
 Starting number of Stars: **7**
-Starting technology: **Roads** – Allows cities to build **Bridges** and **Roads**
+Starting technology: **Roads** – Allows cities to build **Bridges** and **Roads
 
-> **Note:** Stars is the in-game currency in *Polytopia* – read the Starting currency and Stars Per Turn (SPT) sections for a full explanation.
+> **Note:** Stars is the in-game currency in *Polytopia* – read the [Starting currency](#starting-currency) and Stars Per Turn (SPT) sections for a full explanation.
 
 ## Choose the number of opponents
 
