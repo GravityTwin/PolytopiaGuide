@@ -493,7 +493,7 @@ Read the Technology section for a breakdown of the entire technology tree and an
 You don’t have to spend all or any of your , and in some situations, it might be better to hold off on spending until your next turn. 
 
 
-### Starting currency
+### Starting currency{#starting-currency}
 
 The number of Stars you have to spend at any one time are displayed at the top of the screen.
 
