@@ -108,7 +108,7 @@ An East Asia-themed tribe, which starts out in a grassy, temperate biome. Xin-xi
 
 A Greco-Roman-themed tribe, also based in a temperate biome. Porticos and temples in the Classical style dot their cities, and their units wear plumed helmets, similar to those of Roman centurions and Greek hoplites. Imperius players have the advantage of being able to upgrade their capital city on the first turn. The default Imperius colour is blue.
 
-Starting unit: **Warrior**..
+Starting unit: **Warrior**.
 Starting number of Stars: **5**.
 Starting technology: **Organisation** – allows cities to harvest **Fruit** (grow city population by one), reveals **Crops** that can be turned into **Farms** (building Farms requires the **Farming** technology).
 
