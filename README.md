@@ -203,7 +203,7 @@ Starting unit: **Warrior**
 Starting number of Stars: **7**
 Starting technology: **Roads** – Allows cities to build **Bridges** and **Roads**
 
-> **Note:** Stars is the in-game currency in *Polytopia* – read the [Starting Currency](#starting-currency) and Stars Per Turn (SPT) sections for a full explanation.
+> **Note:** Stars is the in-game currency in *Polytopia* – read the [Starting currency](#starting-currency) and Stars Per Turn (SPT) sections for a full explanation.
 
 ## Choose the number of opponents
 
@@ -490,7 +490,7 @@ Read the Technology section for a breakdown of the entire technology tree and an
 
 #### Save your Stars
 
-You don’t have to spend all or any of your starting currency, and in some situations, it might be better to hold off on spending until your next turn. 
+You don’t have to spend all or any of your , and in some situations, it might be better to hold off on spending until your next turn. 
 
 
 ### Starting currency
