@@ -151,57 +151,57 @@ Starting technology: **Fishing** – allows cities to catch **Fish** (grow city 
 
 A vaguely Robin Hood-themed tribe whose units wear feathered caps, Hoodrick tribes start out in heavily forested sections of the map and have Archery as their starting technology. Naturally, their starting unit is an Archer instead of the usual Warrior. The default Hoodrick colour is brown.
 
-Starting unit: **Archer**
-Starting number of Stars: **7**
-Starting technology: **Archery** – allows cities to train **Archers**, provides a defence bonus in **Forest** tiles
+Starting unit: **Archer**.
+Starting number of Stars: **7**.
+Starting technology: **Archery** – allows cities to train **Archers**, provides a defence bonus in **Forest** tiles.
 
 #### Luxidoor
 
 A South Asia-themed tribe who start off in a bigger capital city that’s already been upgraded to Level 3 – although there are none of the usual upgrades like a Workshop or City Walls present, and you only get two Stars to begin with. Luxidoor players also do not benefit from a starting technology, although you will be able to research one on your second turn, and expand your capital to Level 4 very quickly. Luxidoor units wear turbans and long flowing robes. The default Luxidoor colour is purple.
 
-Starting unit: **Warrior**
-Starting number of Stars: **2**
-Starting technology: None
+Starting unit: **Warrior**.
+Starting number of Stars: **2**.
+Starting technology: None.
 
 #### Vengir
 
 A fantasy-themed tribe who inhabit a blasted Mordor/Morrowind-esque wasteland, Vengir tribes start with a Swordsman and access to Smithery, making them a dangerous tribe for other players to encounter early on, although it’ll be a while before you can build Forges – or much else. The default Vengir colour is white.
 
-Starting unit: **Swordsman**
-Starting number of Stars: **5**
-Starting technology: Smithery – allows cities to train **Swordsmen** and build **Forges** (two Population points per adjacent Mine)
+Starting unit: **Swordsman**.
+Starting number of Stars: **5**.
+Starting technology: Smithery – allows cities to train **Swordsmen** and build **Forges** (two Population points per adjacent Mine).
 
 #### Zebasi 
 
 Zebasi are a desert-based tribe who start with access to the Farming technology, proximity to Fields with Crops, and enough Stars to build a Farm, and therefore can upgrade their capital city on the first turn. As well as a great head start, Zebasi players tend to have room to expand, despite not having access to any strong units for the first few turns at least. Zebasi buildings resemble Sudano-Sahelian architecture, and the default Zebasi colour is orange. 
 
-Starting unit: **Warrior**
-Starting number of Stars: **5**
-Starting technology: **Farming** – allows cities to build **Farms** (two Population points, can only be built on tiles with **Crops**)
+Starting unit: **Warrior**.
+Starting number of Stars: **5**.
+Starting technology: **Farming** – allows cities to build **Farms** (two Population points, can only be built on tiles with **Crops**).
 
 #### Ai-Mo
 
 A Himalayan-Andean themed tribe, Ai-Mo starts out with the Philosophy technology – which means cheaper access to technology on the first turn – and they ride giant llamas into battle. Ai-Mo also starts out with a Mind Bender, so you can convert any enemies who get too close, and heal your own units right from the start. The default Ai-Mo colour is turquoise. 
 
-Starting unit: **Mind Bender** 
-Starting number of Stars: **5**
+Starting unit: **Mind Bender**.
+Starting number of Stars: **5**.
 Starting technology: **Philosophy** – allows cities to train **Mind Benders**, triggers conditions for the **Tower of Wisdom** monument.
 
 #### Quetzali
 
 Quetzali is a Mesoamerican-themed tribe who build stepped pyramid-shaped monuments, wear bird-shaped helmets, and use ostrich-type birds for their mounted units. Starting with the Strategy technology, Quetzali is well protected during the vital early stages of the game, can easily forge alliances via Peace Treaties, and begin with a larger-than-average amount of Stars. The default Quetzali colour is jade green.  
 
-Starting unit: **Defender**
-Starting number of Stars: **7**
-Starting technology: **Strategy** – Allows cities to train **Defenders** and send **Peace Treaties** to rival tribes
+Starting unit: **Defender**.
+Starting number of Stars: **7**.
+Starting technology: **Strategy** – Allows cities to train **Defenders** and send **Peace Treaties** to rival tribes.
 
 #### Yădakk
 
 Yădakk is an Anatolia-themed tribe who wear rich red robes and have access to the Roads technology from the start. Yădakk players also begin with a large amount of Stars, so they can get exploring and building trade networks early on, giving players the potential to upgrade their capital to Level 2 without having to extract any resources. The default Yădakk colour is maroon.  
 
-Starting unit: **Warrior**
-Starting number of Stars: **7**
-Starting technology: **Roads** – Allows cities to build **Bridges** and **Roads
+Starting unit: **Warrior**.
+Starting number of Stars: **7**.
+Starting technology: **Roads** – Allows cities to build **Bridges** and **Roads**.
 
 > **Note:** Stars is the in-game currency in *Polytopia* – read the [Starting currency](#starting-currency) and [Stars Per Turn (SPT)](#stars-per-turn-spt) sections for a full explanation.
 
@@ -221,7 +221,7 @@ In single-player mode, pick from one of four difficulty levels – **Easy**, **N
 
 The difficulty level determines the aggression of computer-controlled opponents. On Easy and Normal difficulty, tribes tend to not attack you unless provoked, whereas on Hard and Crazy difficulty, you will often be attacked without warning. 
 
-The difficulty level does **not** determine the amount of damage that enemy units can deal and receive – read the Combat section for a breakdown of the damage formulas.
+The difficulty level does **not** determine the amount of damage that enemy units can deal and receive – read [the Combat section](#combat) for a [breakdown of the damage formulas](#the-polytopia-combat-formulas-explained).
 
 ## Pick your opponents
 
@@ -334,9 +334,9 @@ In the screengrab above, you can see that the game tells you that you need to re
 
 Click on the tiles with **resources**. If the resource is available for you to extract, the game will render the resource with a glowing blue outline. 
 
-Resources can only be extracted, mined, or used if they’re within your city’s borders. In the screengrab above, only some of the **Fruit** is rendered with a glowing blue outline – read How to grow your city’s Population for information on border expansion. 
+Resources can only be extracted, mined, or used if they’re within your city’s borders. In the screengrab above, only _some_ of the **Fruit** is rendered with the blue outline – read [How to grow your city’s Population](#how-to-grow-your-citys-population) for information on border expansion.
 
-If there are resources nearby but you can’t currently extract them, the dialog box will tell you which technology you need to research in order to do so.
+If there are resources nearby but you can’t currently extract them, the dialog box will tell you which [technology](#technology) you need to research in order to do so.
 
 Make a note of the terrain, which resources are close by, and where the edges of the map are. Are you on the coast, or further inland?
 
@@ -425,7 +425,7 @@ The tiles highlighted by the blue circles indicate where this unit can move to.
 
 When you know where you want your unit to move, click on that tile to complete the move. 
 
-Most units can move one tile per turn. Others, like **Riders**, **Knights**, and **seagoing units**, can move several tiles in one turn – check the Move statistics of all units here.  
+Most units can move one tile per turn. Others, like **Riders**, **Knights**, and **seagoing units**, can move several tiles in one turn – check the Move statistics [of all units here](#lists-of-units).  
 
 
 #### Removing fog-of-war
@@ -442,18 +442,17 @@ The **Scout** naval unit and the **Cloak** land/naval unit have sight ranges of 
 
 You now have some choices to make:
 
-
-1. Train another unit.
-2. Extract resources.
-3. Research a new technology.
-4. Save your Stars.
+1. [Train another unit](#train-another-unit).
+2. [Extract resources](#extract-resources).
+3. [Research a new technology](#research-a-new-technology).
+4. [Save your Stars](#save-your-stars).
 
 
 #### Train another unit
 
 Click on your capital city. This pulls up a list of units which are available to train. 
 
-Training units costs Stars – read the Lists of units section for a full breakdown of unit costs.
+Training units costs Stars – read the [Lists of units](#lists-of-units) section for a full breakdown of unit costs.
 
 Unless you have a starting technology like **Riding**, you will most likely only be able to train another Warrior on your first turn. 
 
@@ -470,7 +469,7 @@ Depending on the starting technology of your chosen tribe, you may be able to ex
 
 If you have access to resources on your first turn, and enough Stars to spend on extracting them it’s a good idea to upgrade your capital city on your first turn. 
 
-Upgraded cities generate more income, can train more units, and benefit from other features – see the City upgrades section for more details. 
+Upgraded cities generate more income, can train more units, and benefit from other features – see the [City upgrades](#city-upgrades) section for more details. 
 
 ```
 Note: You can only extract resources that fall within your city's territory, as defined by the border. 
@@ -485,7 +484,7 @@ You will have enough stars on your first turn to research a new technology.
 
 Depending on your surroundings, it may be essential to do this, if you’re surrounded by valuable resources that you can’t yet extract. 
 
-Read the Technology section for a breakdown of the entire technology tree and an explanation of research costs.
+Read [the Technology section](#technology) for a breakdown of the entire technology tree and an explanation of research costs.
 
 
 #### Save your Stars
