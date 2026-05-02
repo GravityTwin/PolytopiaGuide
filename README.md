@@ -1117,7 +1117,7 @@ For example, the Warrior, the most basic unit of the game, has an attack value o
 
 #### Standard damage
 
-The formulas for working out standard damage (which is the same for melee and ranged combat) is adapted from Mikael Mayer’s *Polytopia Calculator*, with additional notes:
+The formulas for working out standard damage (which is the same for melee and ranged combat) is adapted from [Mikael Mayer’s *Polytopia Calculator*](https://mikaelmayer.github.io/polytopiacalculator/), with additional notes:
 
 
 ```
@@ -1272,7 +1272,7 @@ The damage taken by the primary target is worked out in the exact same way as it
 
 The damage taken by any surrounding units is worked out in the same way, but the result is then **divided by 2**, and the result is **rounded down to the nearest whole number**. 
 
-Below is the formula for working out splash damage from projectiles, taken from the *Polytopia* wiki, with added comments: 
+Below is the formula for working out splash damage from projectiles, taken from the [*Polytopia* wiki](https://polytopia.fandom.com/wiki/Combat), with added comments: 
 
 ```
 attackForce = attacker.attack * (attacker.health / attacker.maxHealth)
@@ -1789,7 +1789,7 @@ While two tribes are at peace, they cannot attack each other’s units, and do n
 
 ### Breaking a Peace Treaty
 
-Peace Treaties can be broken at any time, but the player who wants to break the treaty cannot attack the other player on that turn, and any units within the other player’s borders will be forcibly Disbanded. 
+Peace Treaties can be broken at any time, but the player who wants to break the treaty cannot attack the other player on that turn, and any units within the other player’s borders will be forcibly [Disbanded](#disbanding-units). 
 
 
 ## Technology
@@ -2299,17 +2299,17 @@ Understanding how these two layers of action relate is key to winning games agai
 While the strategy you’ll take every time you play depends on your starting terrain, starting technology and available resources, here are some general tips to keep in mind:
 
 
-* Explore early, explore often – *see Removing fog-of-war.*
-* Grow your capital city to *at least* Level 3 at the earliest opportunity – *see How to grow your city’s Population.*
-* Don’t expand your capital’s borders until you know where the surrounding Villages – which you should turn into your Cities – are located – *see Actions after moving your first unit.*
-* Lighthouses will always be sitting in the corners, go to the nearest one as soon as you can – *see Discover Lighthouses*.
-* Investing in technology early pays off in the long run –* see Technology*.
-* Make sure you research Philosophy early. The 33% technology research discount becomes less useful as the game progresses – *see Tier 3 Technologies*.
-* As soon as you can support more units, train them – *see Lists of units*.
-* Warriors are fine to begin with, but as soon as you can afford to regularly train Swordsmen, don’t go back to Warriors – *see Lists of units*.
-* Similarly, Defenders are great; cheap, flexible, can hold up an enemy flank, but Swordsmen are just as good on the defence, and they can move and attack in the same turn. Defenders can’t – *see Lists of units*.
-* Catapults have a great range and high attack, but weak defence. One Knight will go through a line of catapults like a knife through butter – *see Lists of units*.
-* Any unit can capture a city, even if it’s on 1HP  – *see Lists of units*.
-* Ruins are great – especially if they give you a population boost – but don’t prioritise them over Villages – *see Explore Ruins*.
-* Don’t put down a Monument until you are 100% sure where it’s going to sit – *see Monuments and Temples*. 
+* Explore early, explore often – *see [Removing fog-of-war](#removing-fog-of-war)*.
+* Grow your capital city to *at least* Level 3 at the earliest opportunity – *see [How to grow your city’s Population](#how-to-grow-your-citys-population)*.
+* Don’t expand your capital’s borders until you know where the surrounding Villages – which you should turn into your Cities – are located – *see [Actions after moving your first unit](#actions-after-moving-your-first-unit)*.
+* Lighthouses will always be sitting in the corners, go to the nearest one as soon as you can – *see [Discover Lighthouses](#discover-lighthouses)*.
+* Investing in technology early pays off in the long run – *see [Technology](#technology)*.
+* Make sure you research Philosophy early. The 33% technology research discount becomes less useful as the game progresses – *see [Tier 3 Technologies](#tier-3-technologies)*.
+* As soon as you can support more units, train them – *see [Lists of units](#lists-of-units)*.
+* Warriors are fine to begin with, but as soon as you can afford to regularly train Swordsmen, don’t go back to Warriors – *see [Lists of units](#lists-of-units)*.
+* Similarly, Defenders are great; cheap, flexible, can hold up an enemy flank, but Swordsmen are just as good on the defence, and they can move and attack in the same turn. Defenders can’t – *see [Lists of units](#lists-of-units)*.
+* Catapults have a great range and high attack, but weak defence. A single Knight can go through a line of catapults like a knife through butter, so keep them spread out – *see [Lists of units](#lists-of-units)*.
+* Any unit can capture a city, even if it’s on 1HP  – *see [Lists of units](#lists-of-units)*.
+* Ruins are great – especially if they give you a population boost – but don’t prioritise them over Villages – *see [Explore Ruins](#explore-ruins)*.
+* Don’t build a Monument until you are 100% sure where it’s going to sit in your territory – *see [Build Monuments](#build-monuments)*. 
 * Finally, be flexible – if conditions aren’t optimal, make do. 
