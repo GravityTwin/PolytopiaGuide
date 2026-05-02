@@ -581,9 +581,9 @@ The Park upgrade also gives a city a +1 STP bonus, which stacks with both the Wo
 ### How to earn more Stars 
 
 * **Meet rival tribes** – When you meet a rival tribe for the first time, you will automatically earn 1 Star plus 2 Stars per 1000 points of the enemy's score (rounded up) for a maximum of 11 Stars.
-* **Explore Ruins** – One of the possible outcomes for exploring Ruins is a one-off bonus of ten Stars.
+* **Explore Ruins** – One of the possible outcomes for [exploring Ruins](#explore-ruins) is a one-off bonus of ten Stars.
 * **Choose the ‘Resources’ upgrade when a city reaches Level 3** – When a city upgrades to Level 3, one of the upgrade options you can choose is ‘Resources’ a one-off bonus of five Stars.
-* **Clear Forests** – Researching the **Forestry** technology gives you the **Clear Forests** ability, which removes the trees from **Forest** tiles, turning them into Field tiles, and earns you one extra Star.
+* **Clear Forests** – Researching the **Forestry** technology gives you the **Clear Forests** ability, which removes the trees from **Forest** tiles, [turning them into Field tiles](#terrain-types), and earns you one extra Star.
 * **Disband units** – Researching the **Free Spirit** technology gives you access to the Disband action, which lets you retire units from the map, and earn back half the amount of Stars (rounded up) you originally spent on them.
 * **Harvest Starfish** – Researching the **Seafaring ** technology gives you access to the Gather Starfish action, which lets you extract starfish from ocean squares, which earns you eight Stars. 
 
@@ -601,13 +601,13 @@ As a city’s Population grows, it **generates more SPT**, it can train and **su
 
 ### How to grow your city’s Population
 
-* Extract resources
-* Build structures
-* Create Trade Routes to and from your capital city
-* Build Temples
-* Build Monuments
-* Explore Ruins 
-* Discover Lighthouses 
+* [Extract resources](#extract-resources-1)
+* [Build structures](#build-structures)
+* [Create Trade Routes to and from your capital city](#create-trade-routes-to-and-from-your-capital-city)
+* [Build Temples](#build-temples)
+* [Build Monuments](#build-monuments)
+* [Explore Ruins](#explore-ruins-1)
+* [Discover Lighthouses](#discover-lighthouses-1)
 
 
 #### Extract resources
@@ -981,11 +981,11 @@ All **Monuments** provide **+3 Population Points** to the city they’re built i
 
 #### Explore Ruins 
 
-Exploring **Ruins** will also sometimes yield **+3 Population Points** for your capital city. 
+Exploring [**Ruins**](#explore-ruins) will also sometimes yield **+3 Population Points** for your capital city. 
 
 #### Discover Lighthouses 
 
-Discovering a **Lighthouse** gives you **+1 Population Point** in your capital city. 
+Discovering a [**Lighthouse**](#discover-lighthouses) gives you **+1 Population Point** in your capital city. 
 
 ### City upgrades
 
@@ -1089,7 +1089,7 @@ There are two types of unit attacks, **melee** and **ranged**.
 
 Melee units – like **Warriors**, **Riders**, and **Swordsmen **– can attack enemy units in adjacent tiles. If the enemy unit survives the attack, it will **retaliate**.
 
-Ranged units – like **Archers**, **Catapults**, and **Bombers** – can fire at enemy units from a distance indicated by the Range statistic. 
+Ranged units – like **Archers**, **Catapults**, and **Bombers** – can fire at enemy units from a distance [indicated by the Range statistic](#discover-lighthouses). 
 
 Ranged units will not receive retaliatory damage from melee units, unless they are occupying an adjacent tile. 
 
