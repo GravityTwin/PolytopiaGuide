@@ -323,7 +323,7 @@ Multiplayer games on Tiny maps are also capped at a maximum of 9 players in tota
 
 Once you’ve chosen your game type, picked your opponents and chosen a map, it’s time to start the game.
 
-![Screenshot of a single-player game of Polytopia, showing the stating position of an Imperius player; a Warrior stands in the city of Rere. To the northwest and northeast are two pieces of Fruit, and there are Mountain tiles to the south-west and east. All other surrounding tiles are Forest tiles. There is more Fruit to the west and south, beyond the current borders of Rere, as well as more Forest tiles, one with a Wild Animal resource, a Water tile to the north-east and another Mountain tile to the south-west.](photos/Polytopia-guide-start-the-game.png)
+![Screenshot of a single-player game of Polytopia, showing the stating position of an Imperius player; a Warrior stands in the city of Rere. To the northwest and northeast are two pieces of Fruit, and there are Mountain tiles to the southwest and east. All other surrounding tiles are Forest tiles. There is more Fruit to the west and south, beyond the current borders of Rere, as well as more Forest tiles, one with a Wild Animal resource, a Water tile to the northeast and another Mountain tile to the southwest.](photos/Polytopia-guide-start-the-game.png)
 
 ## Start the game
 
@@ -2414,6 +2414,7 @@ For example, in the turn below (Turn 8), a unit is moved to a **Mountain**, and 
 
     *Discovered the Bardur city of **Bufla**, where the **Archer** that attacked **Warrior 2 (5HP)** is stationed.*
 
+![A screenshot of a Polytopia Perfection game, Turn 8.](photos/Polytopia-TBTG-Turn-08.png)
 
 ### Descriptions of unit movement – embarking and disembarking
 
@@ -2438,8 +2439,9 @@ When a **Giant** embarks and becomes a **Juggernaut**, the unit will deliver spl
 
 In the turn below (Turn 18), the selected unit is moved to the **Port** tile;
 
-
     *Moved **Giant 3** southwest and south on to the **Port** tile south of **Poyobu**, converting it to **Juggernaut 3 (Giant 3)**, destroying the damaged **Bardur Warrior (5HP)** with splash damage.*
+
+![A screenshot of a Polytopia Perfection game, a detail from Turn 18 showing the moves available to Giant 3.](photos/Polytopia-TBTG-Turn-05.png)
 
 When a Juggernaut disembarks – when it moves to a land tile and effectively becomes a Giant again – it will also deliver splash damage in the same manner. 
 
@@ -2557,9 +2559,9 @@ Game opens near the top corner of the map.
 
 **Chabu**, the capital city, sits between three **Mountain **tiles with **Metal Deposits**. 
 
-A **Field** tile with **Fruit** lies to the north east, and a **Forest** tile with **Wild Animals** sits to the south east. To the south west are two **Field** tiles and another **Forest** tile.
+A **Field** tile with **Fruit** lies to the northeast, and a **Forest** tile with **Wild Animals** sits to the southeast. To the southwest are two **Field** tiles and another **Forest** tile.
 
-Further south-west are more **Forest** tiles, further south is another **Mountain** tile, and three **Water** tiles sit to the south east.
+Further southwest are more **Forest** tiles, further south is another **Mountain** tile, and three **Water** tiles sit to the southeast.
 
 
 ### Turn 0
@@ -2568,10 +2570,10 @@ Further south-west are more **Forest** tiles, further south is another **Mountai
 #### Player actions
 
 
-    Researched **Organisation** (five Stars). Crops are revealed on the two **Field** tiles to the south west.
+    Researched **Organisation** (five Stars). Crops are revealed on the two **Field** tiles to the southwest.
 
 
-    Extracted the **Fruit** (two Stars) from the tile to the north east of **Chabu**, for +1 Population Point. 
+    Extracted the **Fruit** (two Stars) from the tile to the northeast of **Chabu**, for +1 Population Point. 
 
 
     Moved **Warrior 1** north, revealing a new **Village**, plus two more **Water** tiles, one with **Fish**. 
@@ -2627,7 +2629,7 @@ Ended turn.
 
 #### Player actions
 
-Moved **Warrior 1** north east. 
+Moved **Warrior 1** northeast. 
 
 Trained **Warrior 2** in **Chabu** (two Stars).
 
@@ -2779,7 +2781,7 @@ Captured the **Village** with **Warrior 1**, converting it to the city of **Poch
 
 
 ```
-Terrain to the south-west and east features snow and desert terrain, indicating that Bardur and Oumaji are nearby – I can expect some visitors soon. 
+Terrain to the southwest and east features snow and desert terrain, indicating that Bardur and Oumaji are nearby – I can expect some visitors soon. 
 
 I'm now thinking about researching Fishing – so I can grow the population of Pocha- and eventually build Ports. If Oumaji units come at me via the sea, I need to be able to counter them.
 ```
@@ -2798,7 +2800,7 @@ Ended turn.
 #### Player actions
 
 
-    Moved **Warrior 1** north-west, discovering the northern **Lighthouse** (+1 Population Point for **Chabu**).
+    Moved **Warrior 1** northwest, discovering the northern **Lighthouse** (+1 Population Point for **Chabu**).
 
 
     ***Chabu upgraded to Level 2. Upgrade chosen: Workshop.***
@@ -2872,7 +2874,7 @@ Ended turn.
 
 #### Player actions
 
-Moved **Warrior 1** south east into **Pocha-**. 
+Moved **Warrior 1** southeast into **Pocha-**. 
 
 Extracted **Fruit **(two Stars) and **Fish **(two Stars) next to **Pocha-** (+2 Population Points).
 
@@ -3026,7 +3028,7 @@ Ended turn.
 #### Enemy actions – Bardur
 
 
-    A **Bardur Warrior** appears to the south east of **Poyobu**, moving onto the **Mountain** tile with **Metal Deposits**. 
+    A **Bardur Warrior** appears to the southeast of **Poyobu**, moving onto the **Mountain** tile with **Metal Deposits**. 
 
 The **Bardur** emissary offers five Stars.
 
@@ -3129,7 +3131,7 @@ Ended turn.
 
 #### Enemy actions – Bardur
 
-Bardur **Warrior** moves south east on to the **Village** tile to the south-east of **Poyobu**.
+Bardur **Warrior** moves southeast on to the **Village** tile to the southeast of **Poyobu**.
 
 
     A **Bardur Archer** fires at **Warrior 2** from the fog-of-war, dealing **5HP** of damage (reducing **Warrior 2** to **5HP**). **Warrior 2** cannot retaliate (out of range).
@@ -3217,7 +3219,7 @@ Moved **Warrior 1** southwest onto the **Port**, converting it to **Warrior 1 (R
 ```
 Warrior 2 will not likely survive the next turn. I moved it to the nearby Mountain tile, so I can get a better look at Bardur's territory, thanks to the extended line of sight afforded by the Mountain.
 
-The presence of Fish tiles indicates that there's a Village to the south east of Pocha- – I'll move Warrior 1 (Raft) in that direction next turn.
+The presence of Fish tiles indicates that there's a Village to the southeast of Pocha- – I'll move Warrior 1 (Raft) in that direction next turn.
 
 ```
 
@@ -3244,7 +3246,7 @@ Bardur captures the **Village** to the south, turning it into the city of **Bubu
 
 Healed **Warrior 2** for **2HP** (restoring it to **7HP**).
 
-Moved **Warrior 3** south-west, towards **Bufla**, revealing another **Water** tile.
+Moved **Warrior 3** southwest, towards **Bufla**, revealing another **Water** tile.
 
 Built two **Farms** (ten Stars) in **Poyobu** (+4 Population Points).
 
@@ -3254,7 +3256,7 @@ Built two **Farms** (ten Stars) in **Poyobu** (+4 Population Points).
 Trained **Warrior 4** (two Stars) in **Poyoba**. 
 
 
-    Moved **Warrior 1 (Raft)** south west, towards the **Ruins** – discovered a landmass with a **Village** to the east. 
+    Moved **Warrior 1 (Raft)** southwest, towards the **Ruins** – discovered a landmass with a **Village** to the east. 
 
 Trained **Warrior 5** (two Stars) in **Pocha-**.
 
@@ -3353,7 +3355,7 @@ Healed **Warrior 2** for **2HP** (restoring it to **9HP**).
 
     Moved **Warrior 3** west, just outside **Bufla**, but did not attack the **Bardur Warrior**. 
 
-Moved **Warrior 4** south east. 
+Moved **Warrior 4** southeast. 
 
 
     Moved **Warrior 1 (Raft)** east, disembarking to the **Village** on the landmass – which is revealed to be a one-tile island – and started capturing the **Village**. 
@@ -3574,10 +3576,10 @@ Bardur builds a **Port** on the tile immediately northeast of **Bufla**.
 
 #### Player actions
 
-Moved **Warrior 3** east, and **Warrior 2** south east, down from the **Mountain** tile. 
+Moved **Warrior 3** east, and **Warrior 2** southeast, down from the **Mountain** tile. 
 
 
-    Moved **Warrior 4** south west, to give me a better look at the terrain around **Bufla**. Discovered another **Bardur Warrior** to the south. **Warrior 4** will likely be attacked next turn. 
+    Moved **Warrior 4** southwest, to give me a better look at the terrain around **Bufla**. Discovered another **Bardur Warrior** to the south. **Warrior 4** will likely be attacked next turn. 
 
 
     Moved **Warrior 5 (Raft)** south, onto the land tile with the **Ruins **– revealing the yellow border of an **Oumaji** city to the east. 
@@ -3593,7 +3595,7 @@ Extracted two **Fish** (four Stars) next to **Xiszuyo** (+2 Population Points).
     ***Xiszuyo upgraded to Level 2. Upgrade chosen: Explorer.***
 
 
-    The **Explorer** from **Xiszuyo** travelled south east, meeting **Oumaji** and revealing much of the **Oumaji** territory; including the cities of **Ghdor**, **Musilim**, and **Bakegh**. 
+    The **Explorer** from **Xiszuyo** travelled southeast, meeting **Oumaji** and revealing much of the **Oumaji** territory; including the cities of **Ghdor**, **Musilim**, and **Bakegh**. 
 
 The **Oumaji** emissary offers five Stars.
 
@@ -3866,7 +3868,7 @@ Researched **Riding** (six Stars) and **Roads** (eight Stars).
 
     Built two **Roads** (six Stars) heading southwest (six Stars), connecting **Chabu** and **Poyoba** (+1 Population Point in each city). 
 
-Moved **Giant 1** south west two tiles.
+Moved **Giant 1** southwest two tiles.
 
 Healed **Warrior 5** for **2HP** (restoring it to **7HP**).
 
@@ -3995,7 +3997,7 @@ Moved **Warrior** northeast to the **Port** in **Bufla**, becoming a **Warrior (
     *Pacifist *quest completed (make no attacks for five turns), **Altar of Peace** monument unlocked.
 
 
-    Built two **Roads** (six Stars) heading north east connecting **Chabu** and **Pocha-** (+1 Population Point in each city).
+    Built two **Roads** (six Stars) heading northeast connecting **Chabu** and **Pocha-** (+1 Population Point in each city).
 
 
     Extracted **Fish** near **Xiszuyo** (two Stars), and built a **Port** (seven Stars) on the same tile, connecting **Chabu** and **Xiszuyo** (+1 Population Point in each city).
@@ -4166,10 +4168,10 @@ Researched **Hunting** (six Stars) and **Forestry** (eight Stars).
     ***Poyobu upgraded to Level 5. Upgrade chosen: Super Unit (Giant 2).***
 
 
-    Used **Clear Forest** on the tiles to the immediate north east and south west of **Poyobu** (earning two Stars). 
+    Used **Clear Forest** on the tiles to the immediate northeast and southwest of **Poyobu** (earning two Stars). 
 
 
-    Used **Clear Forest** on the **Forest** tile two tiles to the north west of **Chabu** (earning one Star). 
+    Used **Clear Forest** on the **Forest** tile two tiles to the northwest of **Chabu** (earning one Star). 
 
 
     Used the five Stars earned from clearing **Forest** tiles to build a **Mine** on the remaining **Mountain** tile with **Metal Deposits** next to **Chabu** (+4 Population Points).
@@ -4177,7 +4179,7 @@ Researched **Hunting** (six Stars) and **Forestry** (eight Stars).
 
     ***Chabu upgraded to Level 6. Upgrade chosen: Super Unit (Giant 3).***
 
-Built the **Altar of Peace** south west of **Poyobu** (+3 Population Points).
+Built the **Altar of Peace** southwest of **Poyobu** (+3 Population Points).
 
 Healed **Warrior 5** for **1HP** (restoring it to **10HP**).
 
@@ -4325,7 +4327,7 @@ Oumaji moved **Scout (Warrior)** northwest two tiles to the **Ruins**.
 
 Moved **Giant 2** south onto the **Port** tile, converting it to **Juggernaut 2 (Giant 2)**. 
 
-Moved **Giant 3** south west two tiles, towards **Poyobu**.
+Moved **Giant 3** southwest two tiles, towards **Poyobu**.
 
 Researched **Trade** (eleven Stars). 
 
@@ -4508,7 +4510,7 @@ Researched **Construction** (eleven Stars) and **Mathematics** (eleven Stars).
         **Giant 2** attacked a **Bardur Warrior** dealing 5HP of splash damage (reducing the **Bardur Warrior** to **5HP**).
 
 
-    Moved **Giant 3** south west and south on to the **Port** tile south of **Poyobu**, converting it to **Juggernaut 3 (Giant 3)**.
+    Moved **Giant 3** southwest and south on to the **Port** tile south of **Poyobu**, converting it to **Juggernaut 3 (Giant 3)**.
 
 
     **Juggernaut 3 (Giant 3)** attacked and destroyed the **damaged Bardur Warrior (5HP)** with splash damage. 
@@ -4688,7 +4690,7 @@ No actions detected.
 Moved **Giant 2** east, to the **Mountain** tile with **Metal Deposits** next to **Bubutof**. 
 
 
-    Moved **Juggernaut 3 (Giant 3)** east and south east, attacking the Bardur **Warrior **in **Bubutof **with splash damage, dealing **5HP** of damage (reducing it to **5HP**). 
+    Moved **Juggernaut 3 (Giant 3)** east and southeast, attacking the Bardur **Warrior **in **Bubutof **with splash damage, dealing **5HP** of damage (reducing it to **5HP**). 
 
 
     Moved **Giant 4** south on to the Port tile south of **Poyobu**, converting it to **Juggernaut 4 (Giant 4)**. 
@@ -4705,12 +4707,12 @@ Moved **Giant 2** east, to the **Mountain** tile with **Metal Deposits** next to
 
         **Juggernaut 1 (Giant 1)** attacked a Bardur Archer dealing **5HP** of splash damage, (reducing the Bardur Archer to **5HP**).
 
-Moved **Warrior 2** south west, converting it to **Warrior 2 (Raft)**. 
+Moved **Warrior 2** southwest, converting it to **Warrior 2 (Raft)**. 
 
 Trained **Swordsman 1** (five Stars) in **Bufla**.
 
 
-    Built the **Gate of Power** monument (+3 Population Points) north west of **Chabu**, extracted the **Fruit** nearby (two Stars) (+1 Population Point). 
+    Built the **Gate of Power** monument (+3 Population Points) northwest of **Chabu**, extracted the **Fruit** nearby (two Stars) (+1 Population Point). 
 
 
     ***Chabu upgraded to Level 7. Upgrade chosen: Park.***
@@ -4862,7 +4864,7 @@ Built a port in **Ghdor**.
 #### Enemy actions – Bardur
 
 
-    Bardur moved a damaged **Archer** south-east into fog-of-war, and attacked **Swordsman 1**, dealing **2HP** of damage (taking **Swordsman 1** down to 13HP). 
+    Bardur moved a damaged **Archer** southeast into fog-of-war, and attacked **Swordsman 1**, dealing **2HP** of damage (taking **Swordsman 1** down to 13HP). 
 
 
     The other damaged Archer fired on **Warrior 2 (Raft)**, dealing **4HP** of damage (taking **Warrior 2 (Raft)** down to **6HP**). 
@@ -4883,7 +4885,7 @@ No actions detected.
 
 **Giant 3** started capturing **Bubutof**.
 
-Moved **Giant 2** south-west on to the **Mountain** tile, removing more fog-of-war. 
+Moved **Giant 2** southwest on to the **Mountain** tile, removing more fog-of-war. 
 
 
     Moved **Juggernaut 1 (Giant 1)** south on to the **Mountain** tile, disembarking, becoming **Giant 1**, attacking a damaged **Bardur Archer** and a **Bardur Warrior** defending the city of **Gurøro** with splash damage;
@@ -4897,7 +4899,7 @@ Moved **Giant 2** south-west on to the **Mountain** tile, removing more fog-of-w
 Built a **Road** (three Stars) directly south of **Bufla**. 
 
 
-    Moved **Swordsman 1** south and south-west, where it attacks and destroys the Warrior in **Gurøro**. 
+    Moved **Swordsman 1** south and southwest, where it attacks and destroys the Warrior in **Gurøro**. 
 
 **Swordsman 1** started capturing **Gurøro**.
 
@@ -5073,7 +5075,7 @@ No actions detected.
 
     Imperius attacked the **Oumaji Rider** southwest of **Bakegh** with a **Rammer (Rider)**, destroying it, disembarking.
 
-Another **Imperius Rammer** moves close to the **Village** south west of **Bakegh**. 
+Another **Imperius Rammer** moves close to the **Village** southwest of **Bakegh**. 
 
 
 #### Player actions 
@@ -5101,9 +5103,9 @@ Researched **Sailing** (ten Stars) and **Navigation** (thirteen Stars).
 
     The other damaged **Archer** fired on **Warrior 2 (Raft)**, dealing **4HP** of damage (taking **Warrior 2 (Raft)** down to **6HP**). 
 
-Moved **Giant 1** south-west, towards **Arkbu**. 
+Moved **Giant 1** southwest, towards **Arkbu**. 
 
-Moved **Giant 2** north-east, onto the **Mountain** tile with **Metal Deposits**. 
+Moved **Giant 2** northeast, onto the **Mountain** tile with **Metal Deposits**. 
 
 Trained **Swordsman 3** (five Stars) in **Bufla**. 
 
@@ -5319,7 +5321,7 @@ Moved the **Warrior** in **Musilim** east to the **Port** tile, converting it to
 
 Researched **Ramming** (twelve Stars) and **Aquatism** (seventeen Stars).
 
-Moved **Swordsman 2** south-west, outside of **Arkbu**.  
+Moved **Swordsman 2** southwest, outside of **Arkbu**.  
 
 Moved **Swordsman 3** south, to the tile previously occupied by **Swordsman 2**. 
 
@@ -5545,7 +5547,7 @@ No actions detected.
 
         **Imperius Juggernaut **attacked **Juggernaut 4 (Giant 4)** dealing **3HP** of splash damage (taking the **Imperius Juggernaut** down to **37HP**).
 
-Moved damaged **Rammer (5HP)** south-east, towards the Village. 
+Moved damaged **Rammer (5HP)** southeast, towards the Village. 
 
 
 #### Player actions
@@ -5567,7 +5569,7 @@ Researched **Archery** (twelve Stars) and **Spiritualism** (seventeen Stars).
     **Juggernaut 4 (Giant 4**) also discovered the **Imperius** city of **Muslonu**, dealing **4HP** of splash damage to the **Defender** stationed there (taking it down to **11HP**).
 
 
-    Moved **Juggernaut 3 (Giant 3)** south-west one tile, dealing splash damage to the **Imperius Bomber** and a damaged **Warrior (5HP)**, hidden by the fog-of-war;
+    Moved **Juggernaut 3 (Giant 3)** southwest one tile, dealing splash damage to the **Imperius Bomber** and a damaged **Warrior (5HP)**, hidden by the fog-of-war;
 
 
         **Juggernaut 3 (Giant 3)** attacked the damaged **Imperius Juggernaut** dealing **6HP** of splash damage (taking the **Imperius Bomber** down to **4HP**).
@@ -5801,10 +5803,10 @@ Researched **Free Spirit** (fourteen Stars) and **Chivalry** (nineteen Stars).
     *Genius* quest completed (research all technologies), **Tower of Wisdom** monument unlocked. 
 
 
-    Moved **Scout 1** south and south-east to the tile with the **Starfish**, next to the damaged Imperius Rammer, revealing a Warrior on a **Field** tile south-east of **Muslonu**, plus more of the Imperius territory and coastline.
+    Moved **Scout 1** south and southeast to the tile with the **Starfish**, next to the damaged Imperius Rammer, revealing a Warrior on a **Field** tile southeast of **Muslonu**, plus more of the Imperius territory and coastline.
 
 
-    Moved **Juggernaut 4 (Giant 4)** south-east two tiles, dealing splash damage to the **Defender** in **Muslonu**, and the **Rammer (Warrior) **to the east;
+    Moved **Juggernaut 4 (Giant 4)** southeast two tiles, dealing splash damage to the **Defender** in **Muslonu**, and the **Rammer (Warrior) **to the east;
 
 
         **Juggernaut 4 (Giant 4)** attacked the **Defender** in **Muslonu**, dealing **4HP** of splash damage (reducing the **Imperius Defender** to **11HP**).
@@ -6082,19 +6084,19 @@ Upgraded **Defender (Raft)** to **Scout (Defender)**.
 Built a **Road** (three Stars) on the tile occupied by **Giant 1**. 
 
 
-    Moved **Giant 1** south-east two tiles on to the **Port**, converting it to **Juggernaut 1 (Giant 1)**. 
+    Moved **Giant 1** southeast two tiles on to the **Port**, converting it to **Juggernaut 1 (Giant 1)**. 
 
 Healed **Giant 3** for **2HP**, restoring it to **38HP**. 
 
 
-    Moved **Juggernaut 2 (Giant 2)** south-east and south, revealing more of the Imperius coast. 
+    Moved **Juggernaut 2 (Giant 2)** southeast and south, revealing more of the Imperius coast. 
 
 
-    Moved **Scout 1 (Warrior 5)** south-west two tiles to the island with the **Village**, where it disembarked and turned back into **Warrior 5**. 
+    Moved **Scout 1 (Warrior 5)** southwest two tiles to the island with the **Village**, where it disembarked and turned back into **Warrior 5**. 
 
 **Warrior 5** started capturing the **Village**. 
 
-Moved **Juggernaut 4 (Giant 4)** south-west and west, onto the tile with the **Starfish**.
+Moved **Juggernaut 4 (Giant 4)** southwest and west, onto the tile with the **Starfish**.
 
 Moved **Bomber 1 (Warrior 2)** south two tiles. 
 
@@ -6102,7 +6104,7 @@ Moved **Bomber 1 (Warrior 2)** south two tiles.
     Upgraded **Swordsman 4 (Raft)** to **Scout 2 (Swordsman 4)** (five Stars). Revealed more of the land around **Muslonu**.
 
 
-    Moved **Scout 2 (Swordsman 4)** west two tiles and south-west one tile, adjacent to the Oumaji coast. 
+    Moved **Scout 2 (Swordsman 4)** west two tiles and southwest one tile, adjacent to the Oumaji coast. 
 
 Moved **Defender 1** south on to the **Port**, converting it into a **Defender 1 (Raft)**.
 
@@ -6118,7 +6120,7 @@ Trained **Defender 2** (three Stars) in **Bubutof**.
     Built a **Water Temple** (twenty Stars) on the ocean tile to the east of **Pocha- **(+1 Population Point).
 
 
-    Used **Burn Forest** on the tile two squares north-east of **Pocha-** and turned the **Crops** into a **Farm** (five Stars) (+2 Population Points).
+    Used **Burn Forest** on the tile two squares northeast of **Pocha-** and turned the **Crops** into a **Farm** (five Stars) (+2 Population Points).
 
 
     ***Pocha- upgraded to Level 5. Upgrade chosen: Park.***
@@ -6321,7 +6323,7 @@ Trained **Rider** in Musilim.
     Moved damaged **Imperius Warrior (7HP)** north, attacked and destroyed **damaged Oumaji Rider**. 
 
 
-    Moved damaged **Imperius Defender (14HP)** north west one tile. 
+    Moved damaged **Imperius Defender (14HP)** northwest one tile. 
 
 
     Trained **Defender** in **Mocado**. 
@@ -6402,7 +6404,7 @@ Extracted the **Starfish** (eight Stars) with **Juggernaut 4 (Giant 4)**.
 
     Built a **Market** (five Stars) northwest of **Gurøro** in between the **Sawmill** and the **Forges** – **Market** generates 6 SPT. 
 
-Moved **Defender 1 (Raft)** west and south-west, on to the tile with **Starfish**.
+Moved **Defender 1 (Raft)** west and southwest, on to the tile with **Starfish**.
 
 Moved **Defender 2 **south on to the **Port** of **Bubutof**, converting it to **Defender (Raft)**.
 
@@ -6414,7 +6416,7 @@ Trained **Defender 3** (three Stars) in Bubutof.
 	**Market** in **Poyobu** now generates 8 SPT.
 
 
-    Used **Burn Forest** on the tile two squares north-east of **Arkbu** and turned the **Crops** into a **Farm** (five Stars) (+2 Population Points).
+    Used **Burn Forest** on the tile two squares northeast of **Arkbu** and turned the **Crops** into a **Farm** (five Stars) (+2 Population Points).
 
 
 <table>
@@ -6668,7 +6670,7 @@ Extracted **Starfish** (earned eight Stars) with **Defender 1 (Raft)**.
     **Scout 2 (Swordsman 4)** attacked **Imperius Warrior** on the **Field** tile between the two **Mountains**, delivering **5HP** of damage (taking the **Imperius Warrior** down to **5HP**).
 
 
-    Built a **Port** (seven Stars) north-east of **Xiszuyo**, moved **Warrior 1** onto the **Port**, converting it to **Warrior 1 (Raft)**. 
+    Built a **Port** (seven Stars) northeast of **Xiszuyo**, moved **Warrior 1** onto the **Port**, converting it to **Warrior 1 (Raft)**. 
 
 Trained **Defender 4** (three Stars) in **Xiszuyo**.
 
@@ -6681,7 +6683,7 @@ Trained **Defender 4** (three Stars) in **Xiszuyo**.
 
         *Defender 4 automatically displaced by **Giant 5** and moved southwest onto a **Port** tile, converting it to a **Defender 4 (Raft)**.*
 
-Used **Clear Forest** on the tile north-east of **Pocha-**.
+Used **Clear Forest** on the tile northeast of **Pocha-**.
 
 
     Used **Grow Forest**, **Burn Forest,** and built a **Farm** (thirteen Stars) two tiles north of **Chabu**. 
@@ -7529,7 +7531,7 @@ No action.
 #### Player actions
 
 
-    **Bomber 2 (Swordsman 1)** fired on the damaged **Knight (2HP)** north-west of **Muslonu**, destroying the **Knight**, delivering splash damage to the Oumaji units clustered in and around **Muslonu**; 
+    **Bomber 2 (Swordsman 1)** fired on the damaged **Knight (2HP)** northwest of **Muslonu**, destroying the **Knight**, delivering splash damage to the Oumaji units clustered in and around **Muslonu**; 
 
 
         **Bomber 2 (Swordsman 1)** attacked the **damaged Oumaji Warrior (3HP)**, destroying it.
@@ -7635,7 +7637,7 @@ Used **Clear Forest** on the two **Forest** tiles to the south of **Moroip**.
     ***Mocado upgraded to Level 5. Upgrade chosen: Park***.
 
 
-    Built the **Eye of God** and **Tower of Wisdom** monuments to the north west and southwest of **Mocado**. 
+    Built the **Eye of God** and **Tower of Wisdom** monuments to the northwest and southwest of **Mocado**. 
 
 
     ***Mocado upgraded to Level 6. Upgrade chosen: Park.***
