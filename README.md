@@ -2555,6 +2555,8 @@ If only one unit is attacked with splash damage, then the instance of combat wil
 
 ### Game opens
 
+![A screenshot of a Polytopia Perfection game, Turn 0.](photos/Polytopia-TBTG-Turn-00.png)
+
 Game opens near the top corner of the map. 
 
 **Chabu**, the capital city, sits between three **Mountain **tiles with **Metal Deposits**. 
@@ -2563,6 +2565,7 @@ A **Field** tile with **Fruit** lies to the northeast, and a **Forest** tile wit
 
 Further southwest are more **Forest** tiles, further south is another **Mountain** tile, and three **Water** tiles sit to the southeast.
 
+![A screenshot of a Polytopia Perfection game, Turn 0.](photos/Polytopia-TBTG-Turn-00-end.png)
 
 ### Turn 0
 
@@ -2623,6 +2626,7 @@ Ended turn.
 
 *SPT: 2*
 
+![A screenshot of a Polytopia Perfection game, Turn 1.](photos/Polytopia-TBTG-Turn-01.png)
 
 ### Turn 1 
 
@@ -2672,6 +2676,7 @@ Ended turn.
 
 *SPT: 2*
 
+![A screenshot of a Polytopia Perfection game, Turn 2.](photos/Polytopia-TBTG-Turn-02.png)
 
 ### Turn 2
 
@@ -2721,6 +2726,7 @@ Ended turn.
 
 *SPT: 2*
 
+![A screenshot of a Polytopia Perfection game, Turn 3.](photos/Polytopia-TBTG-Turn-03.png)
 
 ### Turn 3 
 
@@ -2793,6 +2799,7 @@ Ended turn.
 
 *SPT: 3*
 
+![A screenshot of a Polytopia Perfection game, Turn 4.](photos/Polytopia-TBTG-Turn-04.png)
 
 ### Turn 4
 
@@ -2868,6 +2875,7 @@ Ended turn.
 
 *SPT: 5*
 
+![A screenshot of a Polytopia Perfection game, Turn 5.](photos/Polytopia-TBTG-Turn-05-02.png)
 
 ### Turn 5
 
@@ -2934,6 +2942,7 @@ Ended turn.
 
 *SPT: 7*
 
+![A screenshot of a Polytopia Perfection game, Turn 6.](photos/Polytopia-TBTG-Turn-06.png)
 
 ### Turn 6 
 
@@ -3021,6 +3030,7 @@ Ended turn.
 
 *SPT: 8*
 
+![A screenshot of a Polytopia Perfection game, Turn 7.](photos/Polytopia-TBTG-Turn-07.png)
 
 ### Turn 7
 
@@ -3125,6 +3135,7 @@ Ended turn.
 
 *SPT: 11*
 
+![A screenshot of a Polytopia Perfection game, Turn 8.](photos/Polytopia-TBTG-Turn-08.png)
 
 ### Turn 8 
 
@@ -3230,6 +3241,7 @@ End turn.
 
 *SPT: 12*
 
+![A screenshot of a Polytopia Perfection game, Turn 9.](photos/Polytopia-TBTG-Turn-09.png)
 
 ### Turn 9 
 
@@ -3337,6 +3349,7 @@ Ended turn.
 
 *SPT: 13*
 
+![A screenshot of a Polytopia Perfection game, Turn 10.](photos/Polytopia-TBTG-Turn-10.png)
 
 ### Turn 10 
 
@@ -3444,6 +3457,7 @@ Ended turn.
 
 *SPT: 13*
 
+![A screenshot of a Polytopia Perfection game, Turn 11.](photos/Polytopia-TBTG-Turn-11.png)
 
 ### Turn 11
 
@@ -3563,6 +3577,7 @@ Ended turn.
 
 *SPT: 13*
 
+![A screenshot of a Polytopia Perfection game, Turn 12.](photos/Polytopia-TBTG-Turn-12.png)
 
 ### Turn 12
 
@@ -3696,6 +3711,7 @@ Ended turn.
 
 *SPT: 16*
 
+![A screenshot of a Polytopia Perfection game, Turn 13.](photos/Polytopia-TBTG-Turn-13.png)
 
 ### Turn 13
 
@@ -3839,6 +3855,7 @@ Ended turn.
 
 *SPT: 19*
 
+![A screenshot of a Polytopia Perfection game, Turn 14.](photos/Polytopia-TBTG-Turn-14.png)
 
 ### Turn 14
 
@@ -3967,6 +3984,7 @@ Ended turn.
 
 *SPT: 19*
 
+![A screenshot of a Polytopia Perfection game, Turn 15.](photos/Polytopia-TBTG-Turn-15.png)
 
 ### Turn 15
 
@@ -4114,6 +4132,7 @@ Ended turn.
 
 *SPT: 20*
 
+![A screenshot of a Polytopia Perfection game, Turn 16.](photos/Polytopia-TBTG-Turn-16.png)
 
 ### Turn 16
 
@@ -4278,6 +4297,7 @@ Ended turn.
 
 *SPT: 22*
 
+![A screenshot of a Polytopia Perfection game, Turn 17.](photos/Polytopia-TBTG-Turn-17.png)
 
 ### Turn 17 
 
@@ -4444,6 +4464,7 @@ Ended turn.
 
 *SPT: 30*
 
+![A screenshot of a Polytopia Perfection game, Turn 18.](photos/Polytopia-TBTG-Turn-18.png)
 
 ### Turn 18 
 
@@ -4634,6 +4655,7 @@ Ended turn.
 
 *SPT: 34*
 
+![A screenshot of a Polytopia Perfection game, Turn 19.](photos/Polytopia-TBTG-Turn-19.png)
 
 ### Turn 19
 
@@ -4829,6 +4851,7 @@ Ended turn.
 
 *SPT: 41*
 
+![A screenshot of a Polytopia Perfection game, Turn 20.](photos/Polytopia-TBTG-Turn-20.png)
 
 ### Turn 20 
 
@@ -5024,6 +5047,7 @@ Ended turn.
 
 *SPT: 42*
 
+![A screenshot of a Polytopia Perfection game, Turn 21.](photos/Polytopia-TBTG-Turn-21.png)
 
 ### Turn 21
 
@@ -5270,6 +5294,7 @@ Ended turn.
 
 *SPT: 53*
 
+![A screenshot of a Polytopia Perfection game, Turn 22.](photos/Polytopia-TBTG-Turn-22.png)
 
 ### Turn 22
 
@@ -5500,6 +5525,7 @@ Ended turn.
 
 *SPT: 56*
 
+![A screenshot of a Polytopia Perfection game, Turn 23.](photos/Polytopia-TBTG-Turn-23.png)
 
 ### Turn 23
 
@@ -5739,6 +5765,7 @@ Ended turn.
 
 *SPT: 56*
 
+![A screenshot of a Polytopia Perfection game, Turn 24.](photos/Polytopia-TBTG-Turn-24.png)
 
 ### Turn 24
 
@@ -6009,6 +6036,7 @@ Ended turn.
 
 *SPT: 59*
 
+![A screenshot of a Polytopia Perfection game, Turn 25.](photos/Polytopia-TBTG-Turn-25.png)
 
 ### Turn 25
 
@@ -6268,6 +6296,7 @@ End turn.
 
 *SPT: 60*
 
+![A screenshot of a Polytopia Perfection game, Turn 26.](photos/Polytopia-TBTG-Turn-26.png)
 
 ### Turn 26
 
@@ -6579,6 +6608,7 @@ On the plus side, I will be able to discover the last Lighthouse soon, and unloc
 
 *SPT: 60*
 
+![A screenshot of a Polytopia Perfection game, Turn 27.](photos/Polytopia-TBTG-Turn-27.png)
 
 ### Turn 27 
 
@@ -6874,6 +6904,7 @@ I'd rather do that once I've got more units into position.
 
 *SPT: 86*
 
+![A screenshot of a Polytopia Perfection game, Turn 28.](photos/Polytopia-TBTG-Turn-28.png)
 
 ### Turn 28
 
@@ -7150,6 +7181,7 @@ I have left it too late to capture everything – my fault for being so nice –
 
 *SPT: 90*
 
+![A screenshot of a Polytopia Perfection game, Turn 29.](photos/Polytopia-TBTG-Turn-29.png)
 
 ### Turn 29
 
@@ -7461,6 +7493,7 @@ I have deliberately spread out my units so as to minimise the splash damage pose
 
 *SPT: 91*
 
+![A screenshot of a Polytopia Perfection game, Turn 30.](photos/Polytopia-TBTG-Turn-30.png)
 
 ### Turn 30
 
@@ -7831,6 +7864,7 @@ To cement my lead, I spend the last few actions upgrading my cities and spamming
 
 *SPT: 91*
 
+![A screenshot of the results of a Polytopia Perfection game.](photos/Polytopia-TBTG-Results.png)
 
 ### Analysis 
 
