@@ -3,7 +3,7 @@ A guide for the mobile game *The Battle for Polytopia*, formatted as a technical
 
 ![A close up of a game of Polytopia, where the player's Xin-xi armies are being attacked by Imperius troops on the east, with Kickoo advancing from the west](photos/Polytopia-guide-title-image-detail.png)
 
-# Get started 
+# Get started
 
 *The Battle for Polytopia* is an award-winning turn-based strategy game. 
 
