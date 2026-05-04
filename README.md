@@ -321,7 +321,7 @@ Multiplayer games on Tiny maps are also capped at a maximum of 9 players in tota
 
 Once you’ve chosen your game type, picked your opponents and chosen a map, it’s time to start the game.
 
-![Screenshot of a single-player game of Polytopia, showing the stating position of an Imperius player; a Warrior stands in the city of Rere. To the northwest and northeast are two pieces of Fruit, and there are Mountain tiles to the south-west and east. All other surrounding tiles are Forest tiles. There is more Fruit to the west and south, beyond the current borders of Rere, as well as more Forest tiles, a Water tile to the north-east and another Mountain tile to the south-west.](photos/Polytopia-guide-start-the-game.png)
+![Screenshot of a single-player game of Polytopia, showing the stating position of an Imperius player; a Warrior stands in the city of Rere. To the northwest and northeast are two pieces of Fruit, and there are Mountain tiles to the south-west and east. All other surrounding tiles are Forest tiles. There is more Fruit to the west and south, beyond the current borders of Rere, as well as more Forest tiles, one with a Wild Animal resource, a Water tile to the north-east and another Mountain tile to the south-west.](photos/Polytopia-guide-start-the-game.png)
 
 ## Start the game
 
@@ -485,6 +485,8 @@ Some **resources** – like **Fruit**, **Fish**, or **Wild Animals** – will be
 
 Depending on the starting technology of your chosen tribe, you may be able to extract the resources on your first turn.
 
+![Screenshot of a single-player game of Polytopia, with the player selecting a Forest tile containing a Wild Animal. The prompt box text reads: 'Research Hunting to extract this resource.'](photos/Polytopia-guide-start-the-game-wild-animals.png)
+
 If you have access to resources on your first turn, and enough Stars to spend on extracting them it’s a good idea to upgrade your capital city on your first turn. 
 
 Upgraded cities generate more income, can train more units, and benefit from other features – see the [City upgrades](#city-upgrades) section for more details. 
@@ -605,6 +607,7 @@ The Park upgrade also gives a city a +1 STP bonus, which stacks with both the Wo
 * **Disband units** – Researching the **Free Spirit** technology gives you access to the Disband action, which lets you retire units from the map, and earn back half the amount of Stars (rounded up) you originally spent on them.
 * **Harvest Starfish** – Researching the **Seafaring ** technology gives you access to the Gather Starfish action, which lets you extract starfish from ocean squares, which earns you eight Stars. 
 
+![Screenshot of a city in Polytopia, with the Population Progress Bar in the centre of the image. The city's current level is 3, and has one Population Point, indicated by the single blue segment on the Progress Bar. This city needs three more Population Points to advance to the next level. The city is currently supporting two units, as evidenced by the two black dots on the Progress Bar.](photos/Polytopia-guide-population-bar.png)
 
 ### Population Progress Bar
 
@@ -1809,6 +1812,7 @@ While two tribes are at peace, they cannot attack each other’s units, and do n
 
 Peace Treaties can be broken at any time, but the player who wants to break the treaty cannot attack the other player on that turn, and any units within the other player’s borders will be forcibly [Disbanded](#disbanding-units). 
 
+![A screenshot of the Technology Tree from Polytopia, with all technologies unlocked.](photos/Polytopia-guide-tech-tree.png)
 
 ## Technology
 
