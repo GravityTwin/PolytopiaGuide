@@ -47,6 +47,8 @@ There are five game modes in Polytopia:
 
 * **Might** – Capture all capital cities to win. No score limit. 
 
+![A screenshot of the Game Mode menu on Polytopia, displaying the three single-player game modes: Perfection, Domoination, Creative](photos/Polytopia-guide-game-types.png)
+
 #### Perfection
 
 **Perfection** mode games are limited to 30 turns and take place on 256-tile maps. The winner is whoever has earned the most points after 30 turns. 
@@ -84,6 +86,8 @@ Glory games are similar to Perfection games in that the object of the game is to
 **Might** games are won by capturing the capital cities of all enemy tribes, and holding them for at least one turn. There are no turn limits or point limits. 
 
 Might games are similar to Domination games in that the object of the game is conquest, the only real difference being you only have to capture and hold the capital cities.
+
+![A screenshot of the Pick Your Tribe menu on Polytopia, displaying the regular tribes: Xin-xi, Imperius, Bardur, Oumaji, Kickoo, Hoodrick, Luxidoor, Vengir, Zebasi, Ai-Mo, Quetzali, Yădakk.](photos/Polytopia-guide-regular-tribes.png)
 
 ## Tribes 
 
@@ -207,6 +211,7 @@ Starting technology: **Roads** – Allows cities to build **Bridges** and **Road
 
 > **Note:** Stars is the in-game currency in *Polytopia* – read the [Starting currency](#starting-currency) and [Stars Per Turn (SPT)](#stars-per-turn-spt) sections for a full explanation.
 
+
 ## Choose the number of opponents
 
 After picking your tribe, you will be asked to choose your opponents as well as choose which type of map you want to play on.
@@ -216,6 +221,8 @@ In single player games against computer-controlled opponents, you will be asked 
 In multiplayer games, you can either create a local **Pass & Play** type game, where you take a turn and then share your mobile device or Nintendo Switch with friends, or organise an **Online** game with friends you’ve added, or with random players via a lobby.
 
 The maximum number of players supported at any one time is **16**.
+
+![A screenshot of the Game Setup menu on Polytopia, displaying the available number of opponents and difficulty types.](photos/Polytopia-guide-game-difficulty.png)
 
 ## Choose the difficulty level
 
@@ -232,6 +239,8 @@ You can’t manually select which tribes you play against in single player games
 You can however influence who you play against by enabling and disabling tribes from the ‘Pick Your Tribe’ menu. 
 
 Select a tribe, and click the ‘Disable/Enable’ toggle in the top-right corner: 
+
+![Screenshots displaying the Enable/Disable Tribe toggle on the Pick Your Tribe menu of Polytopia.](photos/Polytopia-guide-enable-disable.png)
 
 For example, if you only want to play against Xin-xi and Imperius, you could disable all other tribes. If you wanted to play on an all-desert map, you could enable Oumaji and Zebasi, and no other tribes. 
 
@@ -306,12 +315,13 @@ As well as being able to pick from all map sizes, from Tiny to Massive, Creative
 * **Archipelago:** Small continents and island chains. 
 * **Water World:** A vast ocean dotted with tiny islands – despite the name, not entirely Water and Ocean tiles.
 
- \
 By default, the procedurally generated maps on Perfection and Domination games have a roughly even distribution of land and sea tiles, and more closely resemble the Pangaea and Continents map types. 
 
 Multiplayer games on Tiny maps are also capped at a maximum of 9 players in total (8 opponents), whereas all other map sizes can host up to 16 players in total (15 opponents).
 
 Once you’ve chosen your game type, picked your opponents and chosen a map, it’s time to start the game.
+
+![Screenshot of a single-player game of Polytopia, showing the stating position of an Imperius player; a Warrior stands in the city of Rere. To the northwest and northeast are two pieces of Fruit, and there are Mountain tiles to the south-west and east. All other surrounding tiles are Forest tiles. There is more Fruit to the west and south, beyond the current borders of Rere, as well as more Forest tiles, a Water tile to the north-east and another Mountain tile to the south-west.](photos/Polytopia-guide-start-the-game.png)
 
 ## Start the game
 
@@ -334,6 +344,8 @@ Click on a tile to learn more about the terrain.
 
 In the screengrab above, you can see that the game tells you that you need to research **Climbing** in order to be able to move units on to **Mountain** tiles. 
 
+![Screenshot of a single-player game of Polytopia, with the player selecting a Field tile containing Fruit. The prompt box text reads:'Extract this resource to upgrade your city'.](photos/Polytopia-guide-start-the-game-resources.png)
+
 Click on the tiles with **resources**. If the resource is available for you to extract, the game will render the resource with a glowing blue outline. 
 
 Resources can only be extracted, mined, or used if they’re within your city’s borders. In the screengrab above, only _some_ of the **Fruit** is rendered with the blue outline – read [How to grow your city’s Population](#how-to-grow-your-citys-population) for information on border expansion.
@@ -341,6 +353,8 @@ Resources can only be extracted, mined, or used if they’re within your city’
 If there are resources nearby but you can’t currently extract them, the dialog box will tell you which [technology](#technology) you need to research in order to do so.
 
 Make a note of the terrain, which resources are close by, and where the edges of the map are. Are you on the coast, or further inland?
+
+![Screenshot of a single-player game of Polytopia, with the map view fully zoomed out, showing that the starting position of the player is located to the west of the map.](photos/Polytopia-guide-start-the-game-zoomed-out.png)
 
 While you can’t see the whole of the map straight away, you can use what information you have to start thinking strategically. 
 
@@ -424,6 +438,8 @@ To move your starting unit, click on the unit.
 In most cases your starting unit will be a **Warrior**.
 
 The tiles highlighted by the blue circles indicate where this unit can move to. 
+
+![Screenshot of a single-player game of Polytopia, with a Warrior unit selected, with blue circles on the adjacent tiles to where the Warrior is able to be moved.](photos/Polytopia-guide-start-the-game-moving.png)
 
 When you know where you want your unit to move, click on that tile to complete the move. 
 
