@@ -7,8 +7,6 @@ A guide for the mobile game *The Battle for Polytopia*, formatted as a technical
 
 *The Battle for Polytopia* is an award-winning turn-based strategy game. 
 
-Link to analysis [here](analysis/text.txt).
-
 *Polytopia* is a ‘4X’ (Explore, Expand, Exploit, Exterminate) type game, similar to the *Civilization* series, albeit with much more streamlined and fast-paced game mechanics and a brightly-coloured, low-polygon art style. 
 
 Versions of *Polytopia* are available for iOS, Android, Windows, Mac, and Linux (via Steam), and Nintendo Switch. 
